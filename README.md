@@ -1,7 +1,9 @@
 Balls
 =====
 
-By Ellis Simmons  
+Made by: Ellis Simmons - 2017 I think <br/>
+Language: Java
+
 
 What is this?
 -------------
