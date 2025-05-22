@@ -1,7 +1,7 @@
 Balls
 =====
 
-Made by: Ellis Simmons - 2017 I think <br/>
+Made by: Ellis Simmons - 2017    
 Language: Java
 
 
